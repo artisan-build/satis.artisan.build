@@ -1,0 +1,16 @@
+{
+    "name": "artisan-build/satis.artisan.build",
+    "homepage": "https://satis.artisan.build",
+    "output-dir": "public",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/artisan-build/chef"
+        }
+    ],
+    "archive": {
+        "directory": "dist",
+        "skip-dev": true
+    },
+    "require-all": true
+}
