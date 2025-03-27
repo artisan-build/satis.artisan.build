@@ -8,3 +8,4 @@
 /.phpunit.result.cache
 /clover.xml
 /resultCache.php
+/auth.json
